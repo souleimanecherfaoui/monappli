@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><solution>
 	<project path="../monappli/monappli.waProject"/>
 	<file path="./Settings.waSettings">
-		<tag name="settings"/>
+		<tag name="settings"/> 
 	</file>
 	<file path="./Directory.waDirectory">
 		<tag name="directory"/>
